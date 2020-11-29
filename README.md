@@ -72,12 +72,6 @@ In Progress...
 <br />
 <br />
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
-    
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
-
-</details>
 
 [website]: http://www.cse.iitd.ac.in/~cs1160327/
 <!-- [course]: http://vsCodeHero.com -->
@@ -85,5 +79,5 @@ In Progress...
 [youtube]: https://www.youtube.com/channel/UC2umyIiPGNbK7qRQRFvi8KQ
 <!-- [instagram]: https://instagram.com/codeSTACKr -->
 [linkedin]: https://www.linkedin.com/in/udit01/
-[email]: uditjainiitd@gmail.com
+[email]: mailto:uditjainiitd@gmail.com
 
