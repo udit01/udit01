@@ -27,8 +27,8 @@ Here are some ideas to get you started:
 ## I'm a Computer Science Engineer!!
 
 <!-- - 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]! -->
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
+- 🌱 I’m currently learning 
+- 👯 I’m looking to collaborate with other creators
 - 🥅 2020 Goals: Share my knowledge, write blog posts on topics I've learnt about. 
 - ⚡ Fun fact: I love to learn languages and hike.
 
