@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Outdated, update in progress see, profile bio instead
+# Outdated, update in progress, see profile bio instead
 
 ### Hi there, I'm Udit Jain
 
