@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 # Older intro (Update in progress)
 
-See Linkedin for recent profile: [![LinkedIn](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://www.linkedin.com/in/udit01/) 
+See Linkedin for recent profile: [![LinkedIn]()](https://www.linkedin.com/in/udit01/) 
 
 ### Hi there, I'm Udit Jain
 
