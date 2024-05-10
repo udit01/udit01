@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 # Older intro (Update in progress)
 
-See Linkedin for recent profile: [![LinkedIn]()](https://www.linkedin.com/in/udit01/) 
+See Linkedin for recent profile: [![LinkedIn](https://cdn-icons-png.flaticon.com/256/174/174857.png)](https://www.linkedin.com/in/udit01/) 
 
 ### Hi there, I'm Udit Jain
 
