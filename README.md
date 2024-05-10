@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 
 # Older intro (Update in progress)
 
+See Linkedin for recent profile: [![LinkedIn](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://www.linkedin.com/in/udit01/) 
+
 ### Hi there, I'm Udit Jain
 
 <!-- [website] 👋 -->
@@ -29,7 +31,7 @@ Here are some ideas to get you started:
 <!-- - 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]! -->
 - 🌱 I’m currently learning 
 - 👯 I’m looking to collaborate with other creators
-- 🥅 2020 Goals: Share my knowledge, write blog posts on topics I've learnt about. 
+- 🥅 2020 Goals: Share my knowledge, write blog posts on topics I've learned about. 
 - ⚡ Fun fact: I love to learn languages and hike.
 
 <!-- ### Spotify Playing 🎧
