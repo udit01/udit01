@@ -31,10 +31,10 @@ See Linkedin for (more) recent profile: [LinkedIn](https://www.linkedin.com/in/u
 ## I'm a Computer Science Engineer!!
 
 <!-- - 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]! -->
-- 🌱 I’m currently learning 
-- 👯 I’m looking to collaborate with other creators
-- 🥅 2020 Goals: Share my knowledge, write blog posts on topics I've learned about. 
-- ⚡ Fun fact: I love to learn languages and hike.
+- 👯 I’m looking to collaborate with other creators on various AI projects, tools and applications. 
+- 🥅 2025 Goals: Complete more projects and exhibitions, share my knowledge, write blog posts on topics I've learned about. 
+- ⚡ Fun fact: I love to learn languages and playing chess.
+- 📫 How to reach me: Email uditjainiitd@gmail.com
 
 <!-- ### Spotify Playing 🎧
 
