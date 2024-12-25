@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Older intro (Update in progress)
+# Brief Introduction
 
 See Linkedin for (more) recent profile: [LinkedIn](https://www.linkedin.com/in/udit01/) 
 <svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" width="100" height="100" viewBox="0 0 48 48">
