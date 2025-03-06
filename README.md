@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 # Brief Introduction
 
 LinkedIn: [LinkedIn](https://www.linkedin.com/in/udit01/) 
+
 [My Website](https://udit01.github.io/)
 
 <svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" width="100" height="100" viewBox="0 0 48 48">
