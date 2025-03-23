@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="res/about3.jpg" width="800" height="400" >
+  <img src="res/about3.jpg" width="600" height="300" >
   <h1>Udit Jain</h1>
   <p><strong>Computer Vision Engineer & AI Specialist</strong></p>
 
